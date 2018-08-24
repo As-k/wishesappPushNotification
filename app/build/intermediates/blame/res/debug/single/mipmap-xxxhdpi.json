@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/admin/Downloads/WishesApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/admin/Downloads/WishesApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/admin/Downloads/WishesApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_foreground.png",
+        "source": "/Users/admin/Downloads/WishesApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/admin/Downloads/WishesApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/admin/Downloads/WishesApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

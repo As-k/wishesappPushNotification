@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1027008051894",
+    "firebase_url": "https://mypushnotification-75c4b.firebaseio.com",
+    "project_id": "mypushnotification-75c4b",
+    "storage_bucket": "mypushnotification-75c4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027008051894:android:2d757b245fe374db",
+        "android_client_info": {
+          "package_name": "com.mazeit.mypushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027008051894-piahcucalf69bfcvbb43d6241cba6cug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFLqpXHNMRcfEa_28is7cgqAe83nqr4yg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WishesApp</string>
+    <string name="message_file_key">Save Message</string>
+</resources>

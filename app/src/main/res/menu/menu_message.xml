@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/saved"
+        android:icon="@android:color/holo_green_light"
+        android:title="Save Messages" />
+    <item
+        android:id="@+id/cleanMessages"
+        android:icon="@android:color/holo_green_light"
+        android:title="Clean Messages" />
+    <item
+        android:id="@+id/buttonLogOut"
+        android:icon="@android:color/holo_green_light"
+        android:title="Log Out" />
+</menu>

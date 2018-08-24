@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/b4f6ec2a44fde6eb75e563e93a845c82e4491eb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_d50fde515db82c49b96b905b1cec3f27e9ae1e1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/8773feed0ac0a80afc0d84adde9343b0a46cca21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_e35f31a6a50703cea38156af25f02622e624d16a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/acc26f1016a213fe5ee53e05ef26b1d94736ba72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_ed25abaeae73f5fd54fd8551b20986421586a23c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/dc1357792fda3330b232d7c95a6ad6e43bc8c419/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_1dc0e316af5f85d1cfe007e4eeb0fbfd35cf211c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_c5102b6a8e7df08bc84cf3cc23e893ebce3e72a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_e41f6539bd06f000958e224620aa7a1dc96035a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/a8bf4bff2061183daa6cba8eb5ec25b5d287e9f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_163091bd96a9f9c59431c12f9237ed1971ac91b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/b074d3ac7619b3a9340165b45c455181e4fe36ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_cdd23dd9cf3ec228d015c4b8d15faaa20a58dc5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/ecc760a3963c2b5dd33d6447947fead867cf17c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_c3224126e05778e9f07d7a7c26aaa040bd354e2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/973c24703a7dda902f3fd7f02f6f63db771f4e46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_1168d68d62f8ef88ae602c16b11a38bf494ad286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/080c1e147c108d52fc14da88c888dbe229b769c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_3b41f033655ab031763b59c8b08dae2d60a77019.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_b3e9b7bd1ef57665ddaf3220f1d728e980732dc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/2cc13b1c7e387a2cd729f0a5c082d29e121301a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_c32cee03d765abf7498e7645f81a87aa1ac71024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/b8c6bd45bb1216c725baafaa18bdfa986b77582e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_e5f88f77dead6a13027c875e33b3dca6cefd80a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/e15a2affdf5db998ba548d92618ed75342cbcaa1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_e3d1ae777232a966cd9939d82972adf04e9ef8f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/8e53c191630fbf8bd856794784e642c3ecd3fe50/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_144a3841229698d7871352f851e5fd55de30320b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/8aaeddf8656d42de4f6d93ba23b40eb6a940694d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_700ee8818b696aa3e5309601da142773cb8109de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/501f61571d2d0f420ae0e423570d9e2debb147a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_7a224afafa7364ad70ea7664024871e5c82adada.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/66f84c58b53adc33db02c6b7accf53bdf34c51b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_ebb5a55766f4b58fb6cbed198b8c072a62f996af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/fc2ebfd659eb5c9657db8ac1f1757255081a0171/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_26f037db431fb65644023f049fbe85f170f839c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_1d7f3ea28b5d749dc1e4f9a2bf614f323969fb2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/ca11ab91b35f3d7365fab9f7915c9a06a05ad1b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/admin/Downloads/WishesApp/app/build/intermediates/pre-dexed/debug/classes_ebbb7a5a799faf9555f61def3b6279e364729b33.jar" />
+    </item>
+
+</items>

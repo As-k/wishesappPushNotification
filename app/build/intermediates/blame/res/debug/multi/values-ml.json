@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/admin/Downloads/WishesApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 269,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/e15a2affdf5db998ba548d92618ed75342cbcaa1/output/res/values-ml/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 269,
+                        "endOffset": 608
+                    }
+                }
+            }
+        ]
+    }
+]

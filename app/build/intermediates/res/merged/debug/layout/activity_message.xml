@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2a628c"
+    android:padding="10dp"
+    tools:context="com.mazeit.wishesapp.MessageActivity">
+
+    <EditText
+        android:id="@+id/editTextPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@android:color/background_light"
+        android:ems="8"
+        android:hint="Phone Number"
+        android:inputType="phone"
+        android:maxLength="10"
+        android:textColor="@android:color/background_light"
+        android:textColorLink="@android:color/background_light"
+        android:textCursorDrawable="@android:color/background_light"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:id="@+id/editTextMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editTextPhone"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignStart="@+id/editTextPhone"
+        android:layout_below="@+id/editTextPhone"
+        android:layout_marginTop="15dp"
+        android:backgroundTint="@android:color/background_light"
+        android:ems="20"
+        android:filterTouchesWhenObscured="false"
+        android:hint="Enter Message"
+        android:inputType="text|textMultiLine"
+        android:maxLength="2000"
+        android:textColor="@android:color/background_light"
+        android:textColorLink="@android:color/background_light"
+        android:textCursorDrawable="@android:color/background_light" />
+
+    <Button
+        android:id="@+id/buttonSend"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignBaseline="@+id/editTextPhone"
+        android:layout_alignParentEnd="true"
+        android:background="@android:color/white"
+        android:elevation="0dp"
+        android:onClick="sendMessage"
+        android:text="Send"
+        android:textAllCaps="false"
+        android:textColor="#2a628c"
+        android:textSize="14sp" />
+
+<TextView
+    android:id="@+id/textViewMyMessage"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="My messages"
+    android:textColor="@android:color/background_light"
+    android:textSize="18sp"
+    android:textStyle="bold|italic"
+    android:layout_marginTop="20dp"
+    android:layout_below="@+id/editTextMessage"
+    android:layout_centerHorizontal="true" />
+
+    <!--TextView
+        android:id="@+id/textViewDisplayMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textColor="@android:color/background_light"
+        android:textColorLink="@android:color/background_light"
+        android:textSize="18sp"
+        android:layout_below="@+id/textViewMyMessage"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="19dp" /-->
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textViewMyMessage"
+        android:layout_marginTop="19dp"
+        android:scrollbars="vertical">
+
+        <TextView
+            android:id="@+id/textViewDisplayMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:textColor="@android:color/background_light"
+            android:textColorLink="@android:color/background_light"
+            android:textSize="18sp" />
+
+    </ScrollView>
+
+
+</RelativeLayout>

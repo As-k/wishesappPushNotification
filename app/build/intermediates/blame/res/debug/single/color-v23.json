@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/admin/Downloads/WishesApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/admin/.android/build-cache/dc1357792fda3330b232d7c95a6ad6e43bc8c419/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/admin/Downloads/WishesApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/admin/.android/build-cache/dc1357792fda3330b232d7c95a6ad6e43bc8c419/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/admin/Downloads/WishesApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/admin/.android/build-cache/dc1357792fda3330b232d7c95a6ad6e43bc8c419/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/admin/Downloads/WishesApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/admin/.android/build-cache/dc1357792fda3330b232d7c95a6ad6e43bc8c419/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/admin/Downloads/WishesApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/admin/.android/build-cache/dc1357792fda3330b232d7c95a6ad6e43bc8c419/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/admin/Downloads/WishesApp/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/admin/.android/build-cache/dc1357792fda3330b232d7c95a6ad6e43bc8c419/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/admin/Downloads/WishesApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/admin/.android/build-cache/dc1357792fda3330b232d7c95a6ad6e43bc8c419/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/admin/Downloads/WishesApp/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/admin/.android/build-cache/dc1357792fda3330b232d7c95a6ad6e43bc8c419/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/admin/Downloads/WishesApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/admin/.android/build-cache/dc1357792fda3330b232d7c95a6ad6e43bc8c419/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/admin/Downloads/WishesApp/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/admin/.android/build-cache/dc1357792fda3330b232d7c95a6ad6e43bc8c419/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/admin/Downloads/WishesApp/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/admin/.android/build-cache/ca11ab91b35f3d7365fab9f7915c9a06a05ad1b8/output/res/color-v23/design_tint_password_toggle.xml"
+    }
+]

@@ -1,0 +1,251 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/admin/.android/build-cache/080c1e147c108d52fc14da88c888dbe229b769c1/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/admin/.android/build-cache/080c1e147c108d52fc14da88c888dbe229b769c1/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:7:22-73
+application
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:9:5-41:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/admin/.android/build-cache/dc1357792fda3330b232d7c95a6ad6e43bc8c419/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/admin/.android/build-cache/66f84c58b53adc33db02c6b7accf53bdf34c51b2/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/admin/.android/build-cache/ecc760a3963c2b5dd33d6447947fead867cf17c1/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/admin/.android/build-cache/501f61571d2d0f420ae0e423570d9e2debb147a7/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:9.6.1] /Users/admin/.android/build-cache/a35e9ae6fecaf37e341fbbc1376143f60e2c44a6/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/admin/.android/build-cache/080c1e147c108d52fc14da88c888dbe229b769c1/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] /Users/admin/.android/build-cache/acc26f1016a213fe5ee53e05ef26b1d94736ba72/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.6.1] /Users/admin/.android/build-cache/2cc13b1c7e387a2cd729f0a5c082d29e121301a1/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] /Users/admin/.android/build-cache/b4f6ec2a44fde6eb75e563e93a845c82e4491eb8/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] /Users/admin/.android/build-cache/e15a2affdf5db998ba548d92618ed75342cbcaa1/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.1.1] /Users/admin/.android/build-cache/b8c6bd45bb1216c725baafaa18bdfa986b77582e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/admin/.android/build-cache/8773feed0ac0a80afc0d84adde9343b0a46cca21/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/admin/.android/build-cache/a8bf4bff2061183daa6cba8eb5ec25b5d287e9f4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/admin/.android/build-cache/973c24703a7dda902f3fd7f02f6f63db771f4e46/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/admin/.android/build-cache/8aaeddf8656d42de4f6d93ba23b40eb6a940694d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /Users/admin/.android/build-cache/8e53c191630fbf8bd856794784e642c3ecd3fe50/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.mazeit.wishesapp.DashboardActivity
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:15:9-16:20
+	android:name
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:15:19-52
+activity#com.mazeit.wishesapp.MessageActivity
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:17:9-28:20
+	android:launchMode
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:18:13-43
+	android:configChanges
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:19:13-74
+	android:name
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:17:19-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:22:27-74
+intent-filter#MESSAGE_ACTIVITY+android.intent.category.DEFAULT
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:24:13-27:29
+action#MESSAGE_ACTIVITY
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:25:17-59
+	android:name
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:25:25-56
+category#android.intent.category.DEFAULT
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:26:27-73
+service#com.mazeit.mypushnotification.MyFirebaseMessagingService
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:29:9-34:19
+	android:name
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:30:13-84
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:31:13-33:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:32:25-75
+service#com.mazeit.mypushnotification.MyFirebaseIDService
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:35:9-40:19
+	android:name
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:36:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:37:13-39:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:38:17-79
+	android:name
+		ADDED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml:38:25-77
+uses-sdk
+INJECTED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/admin/.android/build-cache/dc1357792fda3330b232d7c95a6ad6e43bc8c419/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/admin/.android/build-cache/66f84c58b53adc33db02c6b7accf53bdf34c51b2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/admin/.android/build-cache/ecc760a3963c2b5dd33d6447947fead867cf17c1/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/admin/.android/build-cache/501f61571d2d0f420ae0e423570d9e2debb147a7/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:9.6.1] /Users/admin/.android/build-cache/a35e9ae6fecaf37e341fbbc1376143f60e2c44a6/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/admin/.android/build-cache/080c1e147c108d52fc14da88c888dbe229b769c1/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] /Users/admin/.android/build-cache/acc26f1016a213fe5ee53e05ef26b1d94736ba72/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.1] /Users/admin/.android/build-cache/2cc13b1c7e387a2cd729f0a5c082d29e121301a1/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] /Users/admin/.android/build-cache/b4f6ec2a44fde6eb75e563e93a845c82e4491eb8/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] /Users/admin/.android/build-cache/e15a2affdf5db998ba548d92618ed75342cbcaa1/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.1.1] /Users/admin/.android/build-cache/b8c6bd45bb1216c725baafaa18bdfa986b77582e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/admin/.android/build-cache/8773feed0ac0a80afc0d84adde9343b0a46cca21/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/admin/.android/build-cache/a8bf4bff2061183daa6cba8eb5ec25b5d287e9f4/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/admin/.android/build-cache/973c24703a7dda902f3fd7f02f6f63db771f4e46/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/admin/.android/build-cache/8aaeddf8656d42de4f6d93ba23b40eb6a940694d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] /Users/admin/.android/build-cache/8e53c191630fbf8bd856794784e642c3ecd3fe50/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] /Users/admin/.android/build-cache/dc1357792fda3330b232d7c95a6ad6e43bc8c419/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/WishesApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/admin/.android/build-cache/080c1e147c108d52fc14da88c888dbe229b769c1/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/admin/.android/build-cache/080c1e147c108d52fc14da88c888dbe229b769c1/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] /Users/admin/.android/build-cache/080c1e147c108d52fc14da88c888dbe229b769c1/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] /Users/admin/.android/build-cache/ff72b2e53cc4996ed22529415e6a53e45dc1f326/output/AndroidManifest.xml:32:16-87
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.6.1] /Users/admin/.android/build-cache/acc26f1016a213fe5ee53e05ef26b1d94736ba72/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] /Users/admin/.android/build-cache/acc26f1016a213fe5ee53e05ef26b1d94736ba72/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] /Users/admin/.android/build-cache/acc26f1016a213fe5ee53e05ef26b1d94736ba72/output/AndroidManifest.xml:23:18-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] /Users/admin/.android/build-cache/79a1d49a7c4e3d68d07b9e366131945e2f17757d/output/AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.6.1] /Users/admin/.android/build-cache/2cc13b1c7e387a2cd729f0a5c082d29e121301a1/output/AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.6.1] /Users/admin/.android/build-cache/2cc13b1c7e387a2cd729f0a5c082d29e121301a1/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.6.1] /Users/admin/.android/build-cache/2cc13b1c7e387a2cd729f0a5c082d29e121301a1/output/AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.6.1] /Users/admin/.android/build-cache/2cc13b1c7e387a2cd729f0a5c082d29e121301a1/output/AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.6.1] /Users/admin/.android/build-cache/2cc13b1c7e387a2cd729f0a5c082d29e121301a1/output/AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.6.1] /Users/admin/.android/build-cache/e15a2affdf5db998ba548d92618ed75342cbcaa1/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.6.1] /Users/admin/.android/build-cache/e15a2affdf5db998ba548d92618ed75342cbcaa1/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.6.1] /Users/admin/.android/build-cache/e15a2affdf5db998ba548d92618ed75342cbcaa1/output/AndroidManifest.xml:20:20-65
